@@ -1,4 +1,4 @@
-# DE NOVO MARKUP LANGUAGE, A STANDARD TO REPRESENT DE NOVO SEQUENCING RESULTS FROM MS/MS DATA
+# De Novo Markup Language, A Standard To Represent De Novo Sequencing Results From Ms/Ms Data
 
 ## Savas TAKAN, Jens ALLMER
 
