@@ -6,7 +6,7 @@ Proteomics is the study of the proteins that can be derived from a genome. For t
 
 USAGE
 * download and extract dnml library
-* start terminal ("C:\Windows\System32\cmd.exe" , in windows 7)
+* start terminal ("C:\Windows\System32\cmd.exe" , in windows 10)
 * find path where you extract dnml.zip in terminal
 * write command in terminal such as
 * example command for validatation : "java -jar dnml.jar validate file.dnml"
